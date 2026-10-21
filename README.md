@@ -42,10 +42,3 @@ Extracted feature importance scores from the Random Forest classifier to identif
 1. **Mandatory Automated Reminders (SOP):** Implement an automated WhatsApp/SMS reminder system 24 hours prior to appointments. Since `ReminderSent` is the #1 driver, this low-cost intervention directly protects clinic revenue.
 2. **Targeted Manual Follow-Ups:** Require front-desk staff to record acquisition channels for all patients and conduct manual confirmation calls specifically for high-risk segments (such as untraceable/`None` channel bookings).
 3. **Branch-Specific Operational Audits:** Review booking confirmation workflows at the Puchong and Shah Alam branches to standardize patient follow-up procedures.
-
----
-
-##  Repository Structure
-* `Part2_SW01083752.ipynb` — Complete Python Jupyter Notebook containing data preprocessing, Random Forest modeling, evaluation metrics, and feature importance charts.
-* `ikonik_tableu.xlsx` — Dataset and structured Excel assessment sheets.
-* *(Optional: Add your Tableau file name or dashboard screenshots here)*
